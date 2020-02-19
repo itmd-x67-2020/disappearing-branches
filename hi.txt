@@ -1,1 +1,1 @@
-This is pre-release code. Do not release.
+This is v. 1.0.0 code. You can release!
